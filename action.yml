@@ -1,0 +1,6 @@
+# action.yml
+name: 'MSP430 GCC'
+description: 'MSP430 GCC Action'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
